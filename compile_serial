@@ -1,0 +1,1 @@
+g++ em2.cpp -o em_serial
